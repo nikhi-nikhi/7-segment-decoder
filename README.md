@@ -12,7 +12,7 @@ This project implements a binary-to-7-segment display decoder using Verilog and 
 - README.md – Project description
 - output_waveform.png – Screenshot of simulation result (see below)
 
-##  Sample Output
+## Sample Output
 Input: bin = 4'b1001  
 Output: seg = 7'b1111011 → Displays digit 9 on a 7-segment display.
 
